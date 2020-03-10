@@ -1,0 +1,191 @@
+[
+  {
+    "model": "medical_test.age",
+    "pk": 1,
+    "fields": {
+      "value": 21
+    }
+  },
+  {
+    "model": "medical_test.age",
+    "pk": 2,
+    "fields": {
+      "value": 24
+    }
+  },
+  {
+    "model": "medical_test.age",
+    "pk": 3,
+    "fields": {
+      "value": 27
+    }
+  },
+  {
+    "model": "medical_test.age",
+    "pk": 4,
+    "fields": {
+      "value": 30
+    }
+  },
+  {
+    "model": "medical_test.age",
+    "pk": 5,
+    "fields": {
+      "value": 33
+    }
+  },
+  {
+    "model": "medical_test.age",
+    "pk": 6,
+    "fields": {
+      "value": 36
+    }
+  },
+  {
+    "model": "medical_test.age",
+    "pk": 7,
+    "fields": {
+      "value": 39
+    }
+  },
+  {
+    "model": "medical_test.age",
+    "pk": 8,
+    "fields": {
+      "value": 42
+    }
+  },
+  {
+    "model": "medical_test.age",
+    "pk": 9,
+    "fields": {
+      "value": 45
+    }
+  },
+  {
+    "model": "medical_test.age",
+    "pk": 10,
+    "fields": {
+      "value": 48
+    }
+  },
+  {
+    "model": "medical_test.age",
+    "pk": 11,
+    "fields": {
+      "value": 51
+    }
+  },
+  {
+    "model": "medical_test.age",
+    "pk": 12,
+    "fields": {
+      "value": 54
+    }
+  },
+  {
+    "model": "medical_test.age",
+    "pk": 13,
+    "fields": {
+      "value": 57
+    }
+  },
+  {
+    "model": "medical_test.age",
+    "pk": 14,
+    "fields": {
+      "value": 60
+    }
+  },
+  {
+    "model": "medical_test.age",
+    "pk": 15,
+    "fields": {
+      "value": 63
+    }
+  },
+  {
+    "model": "medical_test.age",
+    "pk": 16,
+    "fields": {
+      "value": 66
+    }
+  },
+  {
+    "model": "medical_test.age",
+    "pk": 16,
+    "fields": {
+      "value": 69
+    }
+  },
+  {
+    "model": "medical_test.age",
+    "pk": 17,
+    "fields": {
+      "value": 72
+    }
+  },
+  {
+    "model": "medical_test.age",
+    "pk": 18,
+    "fields": {
+      "value": 75
+    }
+  },
+  {
+    "model": "medical_test.age",
+    "pk": 19,
+    "fields": {
+      "value": 78
+    }
+  },
+  {
+    "model": "medical_test.age",
+    "pk": 20,
+    "fields": {
+      "value": 81
+    }
+  },
+  {
+    "model": "medical_test.age",
+    "pk": 21,
+    "fields": {
+      "value": 84
+    }
+  },
+  {
+    "model": "medical_test.age",
+    "pk": 22,
+    "fields": {
+      "value": 87
+    }
+  },
+  {
+    "model": "medical_test.age",
+    "pk": 23,
+    "fields": {
+      "value": 90
+    }
+  },
+  {
+    "model": "medical_test.age",
+    "pk": 24,
+    "fields": {
+      "value": 93
+    }
+  },
+  {
+    "model": "medical_test.age",
+    "pk": 25,
+    "fields": {
+      "value": 96
+    }
+  },
+  {
+    "model": "medical_test.age",
+    "pk": 26,
+    "fields": {
+      "value": 99
+    }
+  }
+]
