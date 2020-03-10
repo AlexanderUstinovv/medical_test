@@ -1,0 +1,146 @@
+[
+  {
+    "model": "medical_test.measurement",
+    "pk": 1,
+    "fields": {
+      "name": "%",
+      "description": "Проценты"
+    }
+  },
+  {
+    "model": "medical_test.measurement",
+    "pk": 2,
+    "fields": {
+      "name": "мм/ч",
+      "description": "Миллилиртры в час"
+    }
+  },
+  {
+    "model": "medical_test.measurement",
+    "pk": 3,
+    "fields": {
+      "name": "ммоль/л",
+      "description": "Миллимоли на литр"
+    }
+  },
+  {
+    "model": "medical_test.measurement",
+    "pk": 4,
+    "fields": {
+      "name": "усл. ед.",
+      "description": "Условные единицы"
+    }
+  },
+  {
+    "model": "medical_test.measurement",
+    "pk": 5,
+    "fields": {
+      "name": "молярных %",
+      "description": "Молярные проценты"
+    }
+  },
+  {
+    "model": "medical_test.measurement",
+    "pk": 6,
+    "fields": {
+      "name": "г/л",
+      "description": "Граммы на литр"
+    }
+  },
+  {
+    "model": "medical_test.measurement",
+    "pk": 7,
+    "fields": {
+      "name": "ед.",
+      "description": "Единицы"
+    }
+  },
+  {
+    "model": "medical_test.measurement",
+    "pk": 7,
+    "fields": {
+      "name": "оптич. ед.",
+      "description": "Оптические единицы"
+    }
+  },
+  {
+    "model": "medical_test.measurement",
+    "pk": 8,
+    "fields": {
+      "name": "мкмоль/л",
+      "description": "Микромоли на литр"
+    }
+  },
+  {
+    "model": "medical_test.measurement",
+    "pk": 9,
+    "fields": {
+      "name": "мг/л",
+      "description": "Миллиграммы на литр"
+    }
+  },
+  {
+    "model": "medical_test.measurement",
+    "pk": 10,
+    "fields": {
+      "name": "мл",
+      "description": "Миллилитры"
+    }
+  },
+  {
+    "model": "medical_test.measurement",
+    "pk": 11,
+    "fields": {
+      "name": "мг/сут",
+      "description": "Миллиграммы в сутки"
+    }
+  },
+  {
+    "model": "medical_test.measurement",
+    "pk": 12,
+    "fields": {
+      "name": "г/cут",
+      "description": "Граммы в сутки"
+    }
+  },
+  {
+    "model": "medical_test.measurement",
+    "pk": 13,
+    "fields": {
+      "name": "мл/мин",
+      "description": "Миллилитры в минуту"
+    }
+  },
+  {
+    "model": "medical_test.measurement",
+    "pk": 14,
+    "fields": {
+      "name": "сек",
+      "description": "Секунды"
+    }
+  },
+  {
+    "model": "medical_test.measurement",
+    "pk": 15,
+    "fields": {
+      "name": "мин",
+      "description": "Минуты"
+    }
+  },
+  {
+    "model": "medical_test.measurement",
+    "pk": 16,
+    "fields": {
+      "name": "мг/100мл",
+      "description": "Миллиграммы на сто миллилитров"
+    }
+  },
+  {
+    "model": "medical_test.measurement",
+    "pk": 17,
+    "fields": {
+      "name": "ед",
+      "description": "Единицы"
+    }
+  }
+]
