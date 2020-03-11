@@ -1,0 +1,86 @@
+[
+  {
+    "model": "medical_test.parameter",
+    "pk": 1,
+    "fields": {
+      "name": "Эритроциты",
+      "description": "",
+      "measurement": 20,
+      "medical_procedure": 1,
+      "female_maximum_border": 4.7,
+      "female_minimum_border": 3.7,
+      "male_maximum_border": 5.1,
+      "male_minimum_border": 4.0
+    }
+  },
+  {
+    "model": "medical_test.parameter",
+    "pk": 2,
+    "fields": {
+      "name": "Гемоглобин",
+      "description": "",
+      "measurement": 6,
+      "medical_procedure": 1,
+      "female_maximum_border": 140.0,
+      "female_minimum_border": 120.0,
+      "male_maximum_border": 160.0,
+      "male_minimum_border": 130.0
+    }
+  },
+  {
+    "model": "medical_test.parameter",
+    "pk": 3,
+    "fields": {
+      "name": "Цветовой показатель",
+      "description": "",
+      "measurement": 6,
+      "medical_procedure": 1,
+      "female_maximum_border": 1.05,
+      "female_minimum_border": 0.86,
+      "male_maximum_border": 1.05,
+      "male_minimum_border": 0.86
+    }
+  },
+  {
+    "model": "medical_test.parameter",
+    "pk": 4,
+    "fields": {
+      "name": "Лейкоциты",
+      "description": "",
+      "measurement": 21,
+      "medical_procedure": 1,
+      "female_maximum_border": 8.8,
+      "female_minimum_border": 4.0,
+      "male_maximum_border": 8.8,
+      "male_minimum_border": 4.0
+    }
+  },
+  {
+    "model": "medical_test.parameter",
+    "pk": 5,
+    "fields": {
+      "name": "Скорость оседания эритроцитов",
+      "description": "",
+      "measurement": 2,
+      "medical_procedure": 1,
+      "female_maximum_border": 15,
+      "female_minimum_border": 2,
+      "male_maximum_border": 10,
+      "male_minimum_border": 1
+    }
+  },
+  {
+    "model": "medical_test.parameter",
+    "pk": 6,
+    "fields": {
+      "name": "Гематокрит",
+      "description": "",
+      "measurement": 1,
+      "medical_procedure": 1,
+      "female_maximum_border": 42,
+      "female_minimum_border": 36,
+      "male_maximum_border": 51,
+      "male_minimum_border": 40
+    }
+  }
+]

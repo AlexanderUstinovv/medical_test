@@ -35,27 +35,33 @@ class Parameter(models.Model):
 
     name = models.CharField(max_length=100, verbose_name='Название')
     description = models.TextField(verbose_name='Описание')
-    measurement = models.OneToOneField(Measurement,
-                                       verbose_name='Единицы измерения',
-                                       on_delete=models.CASCADE)
-    medical_procedure = models.OneToOneField(MedicalProcedure,
-                                             verbose_name='Мед. процедура',
-                                             on_delete=models.CASCADE)
-    maximum_border = models.IntegerField(verbose_name='Верхняя граница', default=0)
-    minimum_border = models.IntegerField(verbose_name='Нижняя граница', default=0)
+    measurement = models.ForeignKey(Measurement,
+                                    verbose_name='Единицы измерения',
+                                    on_delete=models.CASCADE)
+    medical_procedure = models.ForeignKey(MedicalProcedure,
+                                          verbose_name='Мед. процедура',
+                                          on_delete=models.CASCADE)
+    female_maximum_border = models.DecimalField(max_digits=7, decimal_places=2,
+                                                verbose_name='Верхняя граница женщины', default=0)
+    female_minimum_border = models.DecimalField(max_digits=7, decimal_places=2,
+                                                verbose_name='Нижняя граница женщины', default=0)
+    male_maximum_border = models.DecimalField(max_digits=7, decimal_places=2,
+                                              verbose_name='Врехняя граница мужчины', default=0)
+    male_minimum_border = models.DecimalField(max_digits=7, decimal_places=2,
+                                              verbose_name='Нижняя граница мужчины', default=0)
 
 
 class MedicalProcedureResult(models.Model):
     class Meta:
         db_table = 'medical_procedure_result'
 
-    medical_procedure = models.OneToOneField(MedicalProcedure,
-                                             verbose_name='Процедура',
-                                             on_delete=models.CASCADE)
+    medical_procedure = models.ForeignKey(MedicalProcedure,
+                                          verbose_name='Процедура',
+                                          on_delete=models.CASCADE)
     value = models.IntegerField(verbose_name='Значение')
-    user = models.OneToOneField(User,
-                                verbose_name='Пользователь',
-                                on_delete=models.CASCADE)
+    user = models.ForeignKey(User,
+                             verbose_name='Пользователь',
+                             on_delete=models.CASCADE)
     result = models.BooleanField(default=False, verbose_name='Значение в норме')
 
 
@@ -67,6 +73,6 @@ class ParameterValue(models.Model):
                                                     verbose_name='Результат процедуры',
                                                     on_delete=models.CASCADE)
     value = models.IntegerField(verbose_name='Значение')
-    parameter = models.OneToOneField(Parameter,
-                                     verbose_name='Название параметра',
-                                     on_delete=models.CASCADE)
+    parameter = models.ForeignKey(Parameter,
+                                  verbose_name='Название параметра',
+                                  on_delete=models.CASCADE)

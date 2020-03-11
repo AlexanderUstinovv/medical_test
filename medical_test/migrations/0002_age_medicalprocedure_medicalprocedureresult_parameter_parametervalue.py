@@ -43,8 +43,8 @@ class Migration(migrations.Migration):
                 ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),
                 ('value', models.IntegerField(verbose_name='Значение')),
                 ('result', models.BooleanField(default=False, verbose_name='Значение в норме')),
-                ('medical_procedure', models.OneToOneField(on_delete=django.db.models.deletion.CASCADE, to='medical_test.MedicalProcedure', verbose_name='Процедура')),
-                ('user', models.OneToOneField(on_delete=django.db.models.deletion.CASCADE, to=settings.AUTH_USER_MODEL, verbose_name='Пользователь')),
+                ('medical_procedure', models.ForeignKey(on_delete=django.db.models.deletion.CASCADE, to='medical_test.MedicalProcedure', verbose_name='Процедура')),
+                ('user', models.ForeignKey(on_delete=django.db.models.deletion.CASCADE, to=settings.AUTH_USER_MODEL, verbose_name='Пользователь')),
             ],
             options={
                 'db_table': 'medical_procedure_result',
@@ -58,8 +58,8 @@ class Migration(migrations.Migration):
                 ('description', models.TextField(verbose_name='Описание')),
                 ('maximum_border', models.IntegerField(default=0, verbose_name='Верхняя граница')),
                 ('minimum_border', models.IntegerField(default=0, verbose_name='Нижняя граница')),
-                ('measurement', models.OneToOneField(on_delete=django.db.models.deletion.CASCADE, to='medical_test.Measurement', verbose_name='Единицы измерения')),
-                ('medical_procedure', models.OneToOneField(on_delete=django.db.models.deletion.CASCADE, to='medical_test.MedicalProcedure', verbose_name='Мед. процедура')),
+                ('measurement', models.ForeignKey(on_delete=django.db.models.deletion.CASCADE, to='medical_test.Measurement', verbose_name='Единицы измерения')),
+                ('medical_procedure', models.ForeignKey(on_delete=django.db.models.deletion.CASCADE, to='medical_test.MedicalProcedure', verbose_name='Мед. процедура')),
             ],
             options={
                 'db_table': 'value',
@@ -70,8 +70,8 @@ class Migration(migrations.Migration):
             fields=[
                 ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),
                 ('value', models.IntegerField(verbose_name='Значение')),
-                ('medical_procedure_result', models.OneToOneField(on_delete=django.db.models.deletion.CASCADE, to='medical_test.MedicalProcedureResult', verbose_name='Результат процедуры')),
-                ('parameter', models.OneToOneField(on_delete=django.db.models.deletion.CASCADE, to='medical_test.Parameter', verbose_name='Название параметра')),
+                ('medical_procedure_result', models.ForeignKey(on_delete=django.db.models.deletion.CASCADE, to='medical_test.MedicalProcedureResult', verbose_name='Результат процедуры')),
+                ('parameter', models.ForeignKey(on_delete=django.db.models.deletion.CASCADE, to='medical_test.Parameter', verbose_name='Название параметра')),
             ],
             options={
                 'db_table': 'parameter_value',
