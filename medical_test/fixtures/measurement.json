@@ -166,5 +166,21 @@
       "name": "*10^9/л",
       "description": ""
     }
+  },
+  {
+    "model": "medical_test.measurement",
+    "pk": 22,
+    "fields": {
+      "name": "мм рт. ст.",
+      "description": "Миллиметры ртутного столба"
+    }
+  },
+  {
+    "model": "medical_test.measurement",
+    "pk": 23,
+    "fields": {
+      "name": "pH",
+      "description": "Шкала pH"
+    }
   }
 ]
