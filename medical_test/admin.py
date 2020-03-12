@@ -5,6 +5,14 @@ from .models import Parameter, MedicalProcedureResult
 from .models import ParameterValue
 
 
+class ParameterInline(admin.StackedInline):
+    model = Parameter
+
+
+class ParameterValueInline(admin.StackedInline):
+    model = ParameterValue
+
+
 @admin.register(Measurement)
 class MeasurementAdmin(admin.ModelAdmin):
     list_display = (
@@ -24,6 +32,7 @@ class AgeAdmin(admin.ModelAdmin):
 
 @admin.register(MedicalProcedure)
 class MedicalProcedureAdmin(admin.ModelAdmin):
+    inlines = [ParameterInline]
     list_display = (
         'name',
         'female',
@@ -42,6 +51,7 @@ class ParameterAdmin(admin.ModelAdmin):
 
 @admin.register(MedicalProcedureResult)
 class MedicalProcedureResultAdmin(admin.ModelAdmin):
+    inlines = [ParameterValueInline]
     list_display = (
         'user',
         'medical_procedure',
