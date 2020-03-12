@@ -9,12 +9,18 @@ class Measurement(models.Model):
     name = models.CharField(max_length=6, verbose_name='Единицы измерения')
     description = models.TextField(verbose_name='Описание')
 
+    def __str__(self):
+        return self.name
+
 
 class Age(models.Model):
     class Meta:
         db_table = 'age'
 
     value = models.IntegerField(default=21, verbose_name='Возраст')
+
+    def __str__(self):
+        return self.value
 
 
 class MedicalProcedure(models.Model):
@@ -27,6 +33,9 @@ class MedicalProcedure(models.Model):
     female = models.BooleanField(verbose_name='Для женщин', default=True)
     male = models.BooleanField(verbose_name='Для мужчин', default=True)
     age = models.ManyToManyField(Age, verbose_name='Возраст')
+
+    def __str__(self):
+        return self.name
 
 
 class Parameter(models.Model):
@@ -49,6 +58,9 @@ class Parameter(models.Model):
                                               verbose_name='Врехняя граница мужчины', default=0)
     male_minimum_border = models.DecimalField(max_digits=7, decimal_places=2,
                                               verbose_name='Нижняя граница мужчины', default=0)
+
+    def __str__(self):
+        return self.name
 
 
 class MedicalProcedureResult(models.Model):
