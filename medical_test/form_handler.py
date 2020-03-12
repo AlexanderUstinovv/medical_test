@@ -39,7 +39,7 @@ def create_new_parameters(user: User,
         True
     )
 
-    for key, value in post_dict:
+    for key, value in post_dict.items():
         parameter = Parameter.objects.get(id=key)
         create_param_value(
             parameter,
@@ -57,7 +57,7 @@ def create_new_parameters(user: User,
 def update_parameter(medical_procedure_result: MedicalProcedureResult,
                      sex: str,
                      post_dict: dict) -> None:
-    for key, value in post_dict:
+    for key, value in post_dict.items():
         parameter = ParameterValue.objects.filter(id=key)
         if parameter.exists():
             parameter.update(value=value)
