@@ -24,7 +24,7 @@ class Age(models.Model):
     value = models.IntegerField(default=21, verbose_name='Возраст')
 
     def __str__(self):
-        return self.value
+        return str(self.value)
 
 
 class MedicalProcedure(models.Model):

@@ -1,7 +1,8 @@
 from django.contrib import admin
 
 from .models import Measurement, Age, MedicalProcedure
-from .models import Parameter
+from .models import Parameter, MedicalProcedureResult
+from .models import ParameterValue
 
 
 @admin.register(Measurement)
@@ -38,3 +39,19 @@ class ParameterAdmin(admin.ModelAdmin):
         'medical_procedure'
     )
 
+
+@admin.register(MedicalProcedureResult)
+class MedicalProcedureResultAdmin(admin.ModelAdmin):
+    list_display = (
+        'user',
+        'medical_procedure',
+        'result'
+    )
+
+
+@admin.register(ParameterValue)
+class ParameterValueAdmin(admin.ModelAdmin):
+    list_display = (
+        'id',
+        'parameter'
+    )
