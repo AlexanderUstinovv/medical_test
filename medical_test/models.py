@@ -69,9 +69,9 @@ class ParameterValue(models.Model):
     class Meta:
         db_table = 'parameter_value'
 
-    medical_procedure_result = models.OneToOneField(MedicalProcedureResult,
-                                                    verbose_name='Результат процедуры',
-                                                    on_delete=models.CASCADE)
+    medical_procedure_result = models.ForeignKey(MedicalProcedureResult,
+                                                 verbose_name='Результат процедуры',
+                                                 on_delete=models.CASCADE)
     value = models.IntegerField(verbose_name='Значение')
     parameter = models.ForeignKey(Parameter,
                                   verbose_name='Название параметра',

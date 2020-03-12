@@ -10,11 +10,13 @@ FEMALE = 'F'
 def create_param_value(parameter: Parameter,
                        medical_procedure_result: MedicalProcedureResult,
                        value: int) -> ParameterValue:
-    return ParameterValue.objects.create(
+    parameter_value = ParameterValue.objects.create(
         value=value,
         parameter=parameter,
         medical_procedure_result=medical_procedure_result
     )
+
+    return parameter_value
 
 
 def create_procedure_result(medical_procedure: MedicalProcedure,
