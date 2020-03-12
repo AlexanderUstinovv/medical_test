@@ -5,6 +5,8 @@ from django.db import models
 class Measurement(models.Model):
     class Meta:
         db_table = 'measurement'
+        verbose_name = 'Измерение'
+        verbose_name_plural = 'Измерения'
 
     name = models.CharField(max_length=6, verbose_name='Единицы измерения')
     description = models.TextField(verbose_name='Описание')
@@ -16,6 +18,8 @@ class Measurement(models.Model):
 class Age(models.Model):
     class Meta:
         db_table = 'age'
+        verbose_name = 'Возраст'
+        verbose_name_plural = 'Возрасты'
 
     value = models.IntegerField(default=21, verbose_name='Возраст')
 
@@ -26,6 +30,8 @@ class Age(models.Model):
 class MedicalProcedure(models.Model):
     class Meta:
         db_table = 'medical_procedure'
+        verbose_name = 'Медицинская процедура'
+        verbose_name_plural = 'Медицинские процедуры'
 
     # TODO: find the max length of this field
     name = models.CharField(max_length=100, verbose_name='Название')
@@ -41,6 +47,8 @@ class MedicalProcedure(models.Model):
 class Parameter(models.Model):
     class Meta:
         db_table = 'value'
+        verbose_name = 'Параметр'
+        verbose_name_plural = 'Параметры'
 
     name = models.CharField(max_length=100, verbose_name='Название')
     description = models.TextField(verbose_name='Описание')
@@ -66,6 +74,8 @@ class Parameter(models.Model):
 class MedicalProcedureResult(models.Model):
     class Meta:
         db_table = 'medical_procedure_result'
+        verbose_name = 'Результат мед. процедуры'
+        verbose_name_plural = 'Результаты мед. процедур'
 
     medical_procedure = models.ForeignKey(MedicalProcedure,
                                           verbose_name='Процедура',
@@ -76,10 +86,15 @@ class MedicalProcedureResult(models.Model):
                              on_delete=models.CASCADE)
     result = models.BooleanField(default=False, verbose_name='Значение в норме')
 
+    def __str__(self):
+        return self.medical_procedure.name
+
 
 class ParameterValue(models.Model):
     class Meta:
         db_table = 'parameter_value'
+        verbose_name = 'Результат параметра'
+        verbose_name_plural = 'Результаты параметров'
 
     medical_procedure_result = models.ForeignKey(MedicalProcedureResult,
                                                  verbose_name='Результат процедуры',
@@ -88,3 +103,6 @@ class ParameterValue(models.Model):
     parameter = models.ForeignKey(Parameter,
                                   verbose_name='Название параметра',
                                   on_delete=models.CASCADE)
+
+    def __str__(self):
+        return self.parameter.name
