@@ -60,10 +60,10 @@ def update_parameter(medical_procedure_result: MedicalProcedureResult,
                      sex: str,
                      post_dict: dict) -> None:
     for key, value in post_dict.items():
-        parameter = ParameterValue.objects.filter(id=key)
-        if parameter.exists():
-            parameter.update(value=value)
-            parameter = parameter.first()
+        parameter = Parameter.objects.get(id=key)
+        parameter_value = ParameterValue.objects.filter(id=key)
+        if parameter_value.exists():
+            parameter_value.update(value=value)
             max_border = parameter.male_maximum_border if sex == MALE else parameter.female_maximum_border
             min_border = parameter.male_minimum_border if sex == MALE else parameter.female_minimum_border
             if not min_border < value < max_border:
