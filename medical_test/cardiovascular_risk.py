@@ -21,9 +21,9 @@ def calculate_risk(person_data: PersonalData) -> int:
         cholesterol_min__lte=person_data.cholesterol,
         cholesterol_max__gt=person_data.cholesterol,
         age_min__lte=person_data.age,
-        age_min__gt=person_data.age,
+        age_max__gt=person_data.age,
         systolic_pressure_min__lte=person_data.systolic_pressure,
-        systolic_pressure_min__gt=person_data.systolic_pressure
+        systolic_pressure_max__gt=person_data.systolic_pressure
     )
 
     if scores.exists():
