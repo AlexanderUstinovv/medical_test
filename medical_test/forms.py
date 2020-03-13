@@ -6,13 +6,16 @@ import django.forms as forms
 
 from django.forms.fields import Field
 
-INTEGER_FIELD = 'integer_field'
+FLOAT_FILED = 'float_field'
 STRING_FIELD = 'string_field'
+INTEGER_FIELD = 'integer_field'
 
 field_generators = {
     INTEGER_FIELD: lambda label, help_text: forms.IntegerField(
         label=label, help_text=help_text),
     STRING_FIELD: lambda label, help_text: forms.CharField(
+        label=label, help_text=help_text),
+    FLOAT_FILED: lambda label, help_text: forms.FloatField(
         label=label, help_text=help_text)
 }
 

@@ -99,7 +99,8 @@ class ParameterValue(models.Model):
     medical_procedure_result = models.ForeignKey(MedicalProcedureResult,
                                                  verbose_name='Результат процедуры',
                                                  on_delete=models.CASCADE)
-    value = models.IntegerField(verbose_name='Значение')
+    value = models.DecimalField(max_digits=6, decimal_places=2,
+                                verbose_name='Значение', default=0)
     parameter = models.ForeignKey(Parameter,
                                   verbose_name='Название параметра',
                                   on_delete=models.CASCADE)

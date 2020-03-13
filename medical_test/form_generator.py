@@ -1,7 +1,7 @@
 from django.forms import Form
 
 from .models import MedicalProcedure, Parameter
-from .forms import FormFieldDescription, INTEGER_FIELD, get_form
+from .forms import FormFieldDescription, FLOAT_FILED, get_form
 
 
 def create_param_description(parameter: Parameter
@@ -10,7 +10,7 @@ def create_param_description(parameter: Parameter
         id=parameter.id,
         label=parameter.name,
         measurement=parameter.measurement.name,
-        field_type=INTEGER_FIELD
+        field_type=FLOAT_FILED
     )
 
     return description
