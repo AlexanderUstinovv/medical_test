@@ -1,0 +1,7502 @@
+[
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 1,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 2,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 0.0,
+      "cholesterol_max": 8.33,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 3,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 4,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 5,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 6,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 7,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 8,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 16.67,
+      "cholesterol_max": 22.22,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 9,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 10,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 11,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 12,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 13,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 14,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 15,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 16,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 17,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 18,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 75,
+      "age_max": 99
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 19,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 20,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 21,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 22,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 23,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 24,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 25,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 26,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 27,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 16.67,
+      "cholesterol_max": 22.22,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 28,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 75,
+      "age_max": 99
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 29,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 75,
+      "age_max": 99
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 30,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 16.67,
+      "cholesterol_max": 22.22,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 31,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 32,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 33,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 75,
+      "age_max": 99
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 34,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 16.67,
+      "cholesterol_max": 22.22,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 35,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 36,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 16.67,
+      "cholesterol_max": 22.22,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 37,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 38,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 75,
+      "age_max": 99
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 39,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 40,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 75,
+      "age_max": 99
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 41,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 42,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 16.67,
+      "cholesterol_max": 22.22,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 43,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 44,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 45,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 46,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 16.67,
+      "cholesterol_max": 22.22,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 47,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 16.67,
+      "cholesterol_max": 22.22,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 48,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 49,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 50,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 51,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 16.67,
+      "cholesterol_max": 22.22,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 52,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 53,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 54,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 75,
+      "age_max": 99
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 55,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 56,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 57,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 75,
+      "age_max": 99
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 58,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 16.67,
+      "cholesterol_max": 22.22,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 75,
+      "age_max": 99
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 59,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 16.67,
+      "cholesterol_max": 22.22,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 60,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 61,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 75,
+      "age_max": 99
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 62,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 63,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 64,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 65,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 66,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 67,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 68,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 69,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 70,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 71,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 72,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 73,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 75,
+      "age_max": 99
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 74,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 75,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 76,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 77,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 16.67,
+      "cholesterol_max": 22.22,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 78,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 79,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 80,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 16.67,
+      "cholesterol_max": 22.22,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 75,
+      "age_max": 99
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 81,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 82,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 83,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 84,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 16.67,
+      "cholesterol_max": 22.22,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 85,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 75,
+      "age_max": 99
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 86,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 75,
+      "age_max": 99
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 87,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 88,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 16.67,
+      "cholesterol_max": 22.22,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 89,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 90,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 75,
+      "age_max": 99
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 91,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 92,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 93,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 94,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 95,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 96,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 97,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 98,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 99,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 100,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 75,
+      "age_max": 99
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 101,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 102,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 103,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 104,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 105,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 75,
+      "age_max": 99
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 106,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 0.0,
+      "cholesterol_max": 8.33,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 107,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 108,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 109,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 110,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 111,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 112,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 113,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 114,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 75,
+      "age_max": 99
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 115,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 116,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 117,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 16.67,
+      "cholesterol_max": 22.22,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 118,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 119,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 120,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 121,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 75,
+      "age_max": 99
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 122,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 75,
+      "age_max": 99
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 123,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 124,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 125,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 16.67,
+      "cholesterol_max": 22.22,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 126,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 75,
+      "age_max": 99
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 127,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 16.67,
+      "cholesterol_max": 22.22,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 128,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 16.67,
+      "cholesterol_max": 22.22,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 129,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 75,
+      "age_max": 99
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 130,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 75,
+      "age_max": 99
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 131,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 16.67,
+      "cholesterol_max": 22.22,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 132,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 133,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 134,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 135,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 136,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 137,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 138,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 139,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 140,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 0.0,
+      "cholesterol_max": 8.33,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 141,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 142,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 143,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 144,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 0.0,
+      "cholesterol_max": 8.33,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 145,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 0.0,
+      "cholesterol_max": 8.33,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 146,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 147,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 148,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 149,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 150,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 151,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 152,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 153,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 154,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 155,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 156,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 157,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 158,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 159,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 160,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 161,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 75,
+      "age_max": 99
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 162,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 163,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 164,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 165,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 166,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 167,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 168,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 0.0,
+      "cholesterol_max": 8.33,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 169,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 170,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 171,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 172,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 173,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 174,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 175,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 176,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 177,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 178,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 179,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 180,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 181,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 182,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 183,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 184,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 185,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 186,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 187,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 188,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 189,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 190,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 191,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 192,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 0.0,
+      "cholesterol_max": 8.33,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 193,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 194,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 195,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 196,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 197,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 198,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 16.67,
+      "cholesterol_max": 22.22,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 199,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 200,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 201,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 202,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 203,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 204,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 205,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 206,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 207,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 208,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 209,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 210,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 211,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 0.0,
+      "cholesterol_max": 8.33,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 212,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 213,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 214,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 215,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 216,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 217,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 218,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 219,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 220,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 0.0,
+      "cholesterol_max": 8.33,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 221,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 16.67,
+      "cholesterol_max": 22.22,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 222,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 223,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 224,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 225,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 226,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 227,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 228,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 229,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 230,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 231,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 232,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 233,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 234,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 0.0,
+      "cholesterol_max": 8.33,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 235,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 236,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 237,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 0.0,
+      "cholesterol_max": 8.33,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 238,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 239,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 240,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 241,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 242,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 243,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 244,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 245,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 246,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 247,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 16.67,
+      "cholesterol_max": 22.22,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 248,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 249,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 250,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 251,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 252,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 16.67,
+      "cholesterol_max": 22.22,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 253,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 254,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 255,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 256,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 0.0,
+      "cholesterol_max": 8.33,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 257,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 258,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 0.0,
+      "cholesterol_max": 8.33,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 259,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 260,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 261,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 262,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 263,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 264,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 265,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 266,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 267,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 268,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 269,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 0.0,
+      "cholesterol_max": 8.33,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 270,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 0.0,
+      "cholesterol_max": 8.33,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 271,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 272,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 273,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 274,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 275,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 16.67,
+      "cholesterol_max": 22.22,
+      "high_risk": true,
+      "systolic_pressure_max": 300.0,
+      "systolic_pressure_min": 300.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 276,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 277,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 278,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 279,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 280,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 281,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 282,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 283,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 284,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 285,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 286,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 287,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 0.0,
+      "cholesterol_max": 8.33,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 288,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 289,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 290,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 291,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 292,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 293,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 16.67,
+      "cholesterol_max": 22.22,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 294,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 295,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 296,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 297,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 298,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 299,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 300,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 301,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 302,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 303,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 304,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 305,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 306,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 16.67,
+      "cholesterol_max": 22.22,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 307,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 0.0,
+      "cholesterol_max": 8.33,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 308,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 0.0,
+      "cholesterol_max": 8.33,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 309,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 310,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 311,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 312,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 16.67,
+      "cholesterol_max": 22.22,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 313,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 314,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 315,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 0.0,
+      "cholesterol_max": 8.33,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 316,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 317,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 318,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 319,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 320,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 0.0,
+      "cholesterol_max": 8.33,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 321,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 322,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 323,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 324,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 325,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 326,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 327,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 328,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 329,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 330,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 331,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 332,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 333,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 334,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 335,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 75,
+      "age_max": 99
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 336,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 337,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 338,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 16.67,
+      "cholesterol_max": 22.22,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 339,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 340,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 341,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 342,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 343,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 344,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 345,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 346,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 347,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 348,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 349,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 350,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 351,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 352,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 353,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 354,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 355,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 356,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 357,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 358,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 359,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 360,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 0.0,
+      "cholesterol_max": 8.33,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 361,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 16.67,
+      "cholesterol_max": 22.22,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 362,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 363,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 364,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 365,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 366,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 367,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 0.0,
+      "cholesterol_max": 8.33,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 368,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 369,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 16.67,
+      "cholesterol_max": 22.22,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 370,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 371,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 372,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 373,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 374,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 0.0,
+      "cholesterol_max": 8.33,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 375,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 376,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 0.0,
+      "cholesterol_max": 8.33,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 377,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 0.0,
+      "cholesterol_max": 8.33,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 378,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 379,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 380,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 381,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 382,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 383,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 16.67,
+      "cholesterol_max": 22.22,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 384,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 385,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 386,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 387,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 388,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 389,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 390,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 391,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 392,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 0.0,
+      "cholesterol_max": 8.33,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 393,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 394,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 395,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 396,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 397,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 398,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 399,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 400,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 401,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 402,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 403,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 404,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 405,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 406,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 407,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 408,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 409,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 410,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 411,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 412,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 413,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 414,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 415,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 416,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 417,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 418,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 16.67,
+      "cholesterol_max": 22.22,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 419,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 420,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 421,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 422,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 0.0,
+      "cholesterol_max": 8.33,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 423,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 424,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 425,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 426,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 427,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 428,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 0.0,
+      "cholesterol_max": 8.33,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 429,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 16.67,
+      "cholesterol_max": 22.22,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 430,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 431,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 432,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 433,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 434,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 435,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 436,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 437,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 438,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 0.0,
+      "cholesterol_max": 8.33,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 439,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 0.0,
+      "cholesterol_max": 8.33,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 440,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 441,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 442,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 0.0,
+      "cholesterol_max": 8.33,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 443,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 0.0,
+      "cholesterol_max": 8.33,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 444,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 445,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 446,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 447,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 448,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 449,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 450,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 16.67,
+      "cholesterol_max": 22.22,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 451,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 0.0,
+      "cholesterol_max": 8.33,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 452,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 453,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 454,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 455,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 456,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 457,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 458,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 459,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 16.67,
+      "cholesterol_max": 22.22,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 460,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 461,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 462,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 463,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 65,
+      "age_max": 74
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 464,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 16.67,
+      "cholesterol_max": 22.22,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 465,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 0.0,
+      "cholesterol_max": 8.33,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 466,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 467,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 468,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 469,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 470,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 471,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 472,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 473,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 474,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 475,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 476,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 477,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 478,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 479,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 480,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 481,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 482,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 483,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 484,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 485,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 486,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 487,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 488,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 489,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 0.0,
+      "cholesterol_max": 8.33,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 490,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 0.0,
+      "cholesterol_max": 8.33,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 491,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 159.0,
+      "systolic_pressure_min": 159.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 492,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 493,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 494,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 0.0,
+      "cholesterol_max": 8.33,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 495,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 496,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 200.0,
+      "systolic_pressure_min": 200.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 497,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 11.11,
+      "cholesterol_max": 13.89,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 498,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 0.0,
+      "cholesterol_max": 8.33,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 45,
+      "age_max": 54
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 499,
+    "fields": {
+      "sex": "F",
+      "smoking": true,
+      "cholesterol_min": 13.89,
+      "cholesterol_max": 16.67,
+      "high_risk": true,
+      "systolic_pressure_max": 120.0,
+      "systolic_pressure_min": 120.0,
+      "age_min": 35,
+      "age_max": 44
+    }
+  },
+  {
+    "model": "medical_test.cardiovascularscore",
+    "pk": 500,
+    "fields": {
+      "sex": "M",
+      "smoking": true,
+      "cholesterol_min": 8.33,
+      "cholesterol_max": 11.11,
+      "high_risk": true,
+      "systolic_pressure_max": 139.0,
+      "systolic_pressure_min": 139.0,
+      "age_min": 55,
+      "age_max": 64
+    }
+  }
+]

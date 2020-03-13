@@ -106,3 +106,36 @@ class ParameterValue(models.Model):
 
     def __str__(self):
         return self.parameter.name
+
+
+class CardiovascularScore(models.Model):
+    class Meta:
+        db_table = 'cardiovascular_score'
+        verbose_name = 'Шкала Score сердечно-сосудистого риска'
+        verbose_name_plural = 'Шкалы Score сердечно-сосудистого риска'
+
+    MALE = 'M'
+    FEMALE = 'F'
+    SEX_TYPES = (
+        (MALE, 'Муж.'),
+        (FEMALE, 'Жен.'),
+    )
+
+    sex = models.CharField(max_length=6, choices=SEX_TYPES, verbose_name='Пол')
+    smoking = models.BooleanField(default=False, verbose_name='Курящий')
+    cholesterol_min = models.DecimalField(max_digits=6, decimal_places=2,
+                                          verbose_name='Уровень холестирина нижняя граница',
+                                          default=0)
+    cholesterol_max = models.DecimalField(max_digits=6, decimal_places=2,
+                                          verbose_name='Уровень холестирина верхняя граница',
+                                          default=0)
+    high_risk = models.BooleanField(default=False, verbose_name='Высокий сердечно-сосудистый риск')
+    systolic_pressure_max = models.DecimalField(max_digits=6, decimal_places=2,
+                                                verbose_name='Систолическое давление верхняя граница',
+                                                default=0)
+    systolic_pressure_min = models.DecimalField(max_digits=6, decimal_places=2,
+                                                verbose_name='Систолическое давление нижняя граница',
+                                                default=0)
+    age_min = models.IntegerField(verbose_name='Возраст нижняя граница')
+    age_max = models.IntegerField(verbose_name='Возраст верхняя граница')
+
