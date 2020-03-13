@@ -18,12 +18,12 @@ def calculate_risk(person_data: PersonalData) -> bool:
     scores = CardiovascularScore.objects.filter(
         smoking=person_data.smoking,
         sex=person_data.sex,
-        cholesterol_min__lw=person_data.cholesterol,
-        cholesterol_max__gt=person_data.cholesterol,
-        age_min__lw=person_data.age,
-        age_min__gt=person_data.age,
-        systolic_pressure_min__lw=person_data.systolic_pressure,
-        systolic_pressure_min__gt=person_data.systolic_pressure
+        cholesterol_min__lte=person_data.cholesterol,
+        cholesterol_max__gte=person_data.cholesterol,
+        age_min__lte=person_data.age,
+        age_min__gte=person_data.age,
+        systolic_pressure_min__lte=person_data.systolic_pressure,
+        systolic_pressure_min__gte=person_data.systolic_pressure
     )
 
     if scores.exist():
