@@ -63,6 +63,7 @@ def update_parameter(medical_procedure_result: MedicalProcedureResult,
         parameter = ParameterValue.objects.filter(id=key)
         if parameter.exists():
             parameter.update(value=value)
+            parameter = parameter.first()
             max_border = parameter.male_maximum_border if sex == MALE else parameter.female_maximum_border
             min_border = parameter.male_minimum_border if sex == MALE else parameter.female_minimum_border
             if not min_border < value < max_border:
