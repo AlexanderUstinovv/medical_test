@@ -26,7 +26,7 @@ def calculate_risk(person_data: PersonalData) -> bool:
         systolic_pressure_min__gte=person_data.systolic_pressure
     )
 
-    if scores.exist():
+    if scores.exists():
         if len(scores) == 1:
             return scores.first().high_risk
         elif len(scores) > 1:
