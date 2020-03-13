@@ -18,11 +18,11 @@ class Migration(migrations.Migration):
                 ('smoking', models.BooleanField(default=False, verbose_name='Курящий')),
                 ('cholesterol_min', models.DecimalField(decimal_places=2, default=0, max_digits=6, verbose_name='Уровень холестирина нижняя граница')),
                 ('cholesterol_max', models.DecimalField(decimal_places=2, default=0, max_digits=6, verbose_name='Уровень холестирина верхняя граница')),
-                ('high_risk', models.BooleanField(default=False, verbose_name='Высокий сердечно-сосудистый риск')),
                 ('systolic_pressure_max', models.DecimalField(decimal_places=2, default=0, max_digits=6, verbose_name='Систолическое давление верхняя граница')),
                 ('systolic_pressure_min', models.DecimalField(decimal_places=2, default=0, max_digits=6, verbose_name='Систолическое давление нижняя граница')),
                 ('age_min', models.IntegerField(verbose_name='Возраст нижняя граница')),
                 ('age_max', models.IntegerField(verbose_name='Возраст верхняя граница')),
+                ('result', models.IntegerField(verbose_name='Процент риска заболевания')),
             ],
             options={
                 'verbose_name': 'Шкала Score сердечно-сосудистого риска',

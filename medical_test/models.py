@@ -130,7 +130,6 @@ class CardiovascularScore(models.Model):
     cholesterol_max = models.DecimalField(max_digits=6, decimal_places=2,
                                           verbose_name='Уровень холестирина верхняя граница',
                                           default=0)
-    high_risk = models.BooleanField(default=False, verbose_name='Высокий сердечно-сосудистый риск')
     systolic_pressure_max = models.DecimalField(max_digits=6, decimal_places=2,
                                                 verbose_name='Систолическое давление верхняя граница',
                                                 default=0)
@@ -139,4 +138,4 @@ class CardiovascularScore(models.Model):
                                                 default=0)
     age_min = models.IntegerField(verbose_name='Возраст нижняя граница')
     age_max = models.IntegerField(verbose_name='Возраст верхняя граница')
-
+    result = models.IntegerField(verbose_name='Процент риска заболевания')

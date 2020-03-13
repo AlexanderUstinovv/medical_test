@@ -8,32 +8,24 @@ PersonalData = namedtuple('PersonalData', ['smoking',
                                            'age',
                                            'systolic_pressure'])
 
-RISK_MIN_BORDER = 35
+RISK_MIN_BORDER = 40
 
 
-def calculate_risk(person_data: PersonalData) -> bool:
+def calculate_risk(person_data: PersonalData) -> int:
     if person_data.age < RISK_MIN_BORDER:
-        return False
+        return 0
 
     scores = CardiovascularScore.objects.filter(
         smoking=person_data.smoking,
         sex=person_data.sex,
         cholesterol_min__lte=person_data.cholesterol,
-        cholesterol_max__gte=person_data.cholesterol,
+        cholesterol_max__gt=person_data.cholesterol,
         age_min__lte=person_data.age,
-        age_min__gte=person_data.age,
+        age_min__gt=person_data.age,
         systolic_pressure_min__lte=person_data.systolic_pressure,
-        systolic_pressure_min__gte=person_data.systolic_pressure
+        systolic_pressure_min__gt=person_data.systolic_pressure
     )
 
     if scores.exists():
-        if len(scores) == 1:
-            return scores.first().high_risk
-        elif len(scores) > 1:
-            scores.filter(high_risk=True)
-            if scores.exists():
-                return True
-            else:
-                return False
-        return False
-    return False
+        return scores.first().result
+    return 0
