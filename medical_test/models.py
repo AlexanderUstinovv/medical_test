@@ -8,7 +8,7 @@ class Measurement(models.Model):
         verbose_name = 'Измерение'
         verbose_name_plural = 'Измерения'
 
-    name = models.CharField(max_length=6, verbose_name='Единицы измерения')
+    name = models.CharField(max_length=10, verbose_name='Единицы измерения')
     description = models.TextField(verbose_name='Описание')
 
     def __str__(self):
